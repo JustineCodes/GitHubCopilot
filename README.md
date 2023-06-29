@@ -20,10 +20,12 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
 - I'm finding the code prediction helpful.
 - It has shown me working solutions that were better than what I was going to do.
 - Having a chat option that is focused on code is a wonderful improvement to me workflow. Today I was able to get unstuck a few times by selecting the some code, and asking Copilot what it did, and why was I getting an error.
+- I enjoy how it explains the error or selected code.
 
 ## Lessons
 - Learning to talk to Copilot is an interesting art.
 - In this current state I feel you still need a basic understanding of what you are doing. I have never coded in python and Copilot is helping with the learning curve. But it's not giving me answers like it does when I code in PowerShell.
+- I am seeing how Copilot can help reduce the learning curve with learning new programming languages.
 
 ## Python
 - Tuesday the 27th of June
@@ -31,4 +33,13 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
   - API set up, and hopefully I hide it in gitignore correctly.
   - Used Copilot and ChatGPT in the browser to create the code.
   - A number of errors, and the last one says. "openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details." So ya that's what's up today.
+
+- Wednesday the 28th of June
+  - The error means I need to set up a payment plan. I can do that.
+  - Okay I set that up, still getting error. humm
+  - Fixed it! I think I needed to wait a few for the billing part to start.
+  - With the help of Copilot, I added a quit to my chat loop.
+  - I have a rudimentary ChatGPT script in Python. Pretty cool.
+  - I started building a GUI python script that I plan to build into something I can use to chat with ChatGPT.
+
 

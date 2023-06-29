@@ -21,6 +21,9 @@ def chat_with_gpt(message):
 
 while True:
     user_input = input("You: ")
+    if user_input.lower() in ['quit', 'exit']:
+        print("ChatGPT: Goodbye!")
+        break
     response = chat_with_gpt(user_input)
     print("ChatGPT: " + response)
 
