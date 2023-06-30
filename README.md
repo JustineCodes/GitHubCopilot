@@ -48,7 +48,7 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
   - I started building a GUI python script that I plan to build into something I can use to chat with ChatGPT.
 
   -Thursday the 29th of June
-    - I found [FreedomGPT](https://freedomgpt.com/) it's supposed to run local, have less restrictions, and be more private. [GitHub](https://github.com/ohmplatform/FreedomGPT/) has information.
+    - I found [FreedomGPT](https://freedomgpt.com/){:target="_blank"} it's supposed to run local, have less restrictions, and be more private. [GitHub](https://github.com/ohmplatform/FreedomGPT/) has information.
     - So I have never used 11 GB of RAM on this laptop before. I see why the recommend 16GB RAM.
     - I like the theory, but not sure this laptop is can run the software very well.
     - Corrected my secrets file to a name that remove the conflict with python's standard library modules.
