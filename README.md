@@ -7,7 +7,8 @@
 - [Introduction](#introduction)
 - [Positive](#Positive)
 - [Lessons](#Lessons)
-- [Python](#python)
+- [Thoughts](#Thoughts)
+- [Notes](#notes)
   <!-- [Contributing](#contributing)
   - [Support](#support)
   - [License](#license) -->
@@ -27,7 +28,11 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
 - In this current state I feel you still need a basic understanding of what you are doing. I have never coded in python and Copilot is helping with the learning curve. But it's not giving me answers like it does when I code in PowerShell.
 - I am seeing how Copilot can help reduce the learning curve with learning new programming languages.
 
-## Python
+## Thoughts
+  - I wonder how much Python programming I am learning. Or could this be the new way of coding? I learn how to ask the right questions, and AI creates the solution? This is probably also due to me not creating something new. I could probably have found this code on the internet.
+  - At work I find Copilot more helpful in resolving errors, than creating new scripts.
+
+## Notes
 - Tuesday the 27th of June
   - So somehow I got started trying to create a python chat with ChatGPT.
   - API set up, and hopefully I hide it in gitignore correctly.
@@ -35,11 +40,19 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
   - A number of errors, and the last one says. "openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details." So ya that's what's up today.
 
 - Wednesday the 28th of June
-  - The error means I need to set up a payment plan. I can do that.
+  - The error means I need to set up a payment plan for use of the API. I thought it was part of the ChatGPT fee. I can do that.
   - Okay I set that up, still getting error. humm
   - Fixed it! I think I needed to wait a few for the billing part to start.
   - With the help of Copilot, I added a quit to my chat loop.
   - I have a rudimentary ChatGPT script in Python. Pretty cool.
   - I started building a GUI python script that I plan to build into something I can use to chat with ChatGPT.
+
+  -Thursday the 29th of June
+    - I found [FreedomGPT](https://freedomgpt.com/) it's supposed to run local, have less restrictions, and be more private. [GitHub](https://github.com/ohmplatform/FreedomGPT/) has information.
+    - So I have never used 11 GB of RAM on this laptop before. I see why the recommend 16GB RAM.
+    - I like the theory, but not sure this laptop is can run the software very well.
+    - Corrected my secrets file to a name that remove the conflict with python's standard library modules.
+    - I now have a GUI for my ChatBot!
+    - It was interesting, I asked Copilot, "How do I merge my AIChatBot.py with my TestGUI.py" and it showed me how. For some odd reason it did change my ChatGPT API engine, but once I updated that things worked as I expected.
 
 

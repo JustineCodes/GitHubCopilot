@@ -3,8 +3,9 @@
 import openai
 import json
 import secrets
+import my_secrets
 
-openai.api_key = secrets.OPENAI_API_KEY
+openai.api_key = my_secrets.OPENAI_API_KEY
 
 def chat_with_gpt(message):
     response = openai.Completion.create(
@@ -21,7 +22,7 @@ def chat_with_gpt(message):
 
 while True:
     user_input = input("You: ")
-    if user_input.lower() in ['quit', 'exit']:
+    if user_input.lower() in ['quite', 'exit']:
         print("ChatGPT: Goodbye!")
         break
     response = chat_with_gpt(user_input)
