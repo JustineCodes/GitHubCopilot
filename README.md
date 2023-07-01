@@ -61,5 +61,6 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
 - Friday the 30th of June
   - I added a filter to the user input. This prevents the user from using certain words when reaching out to ChatGPT. I am thinking this is one way that you could allow people to use ChatGPT and have a guardrails for data safety. Though for it to really work, the filter would need to be intelligent enough to read context. Like an AI filter for AI.
   - I will think on this a bit more.
+  - Look and you will find [Nightfall](https://docs.nightfall.ai/), a software built for help implement DLP into your application. Incoming research time.
 
 
