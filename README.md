@@ -30,6 +30,7 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
 
 ## Thoughts
   - I wonder how much Python programming I am learning. Or could this be the new way of coding? I learn how to ask the right questions, and AI creates the solution? This is probably also due to me not creating something new. I could probably have found this code on the internet.
+    - I am learning python, just in a new way.
   - At work I find Copilot more helpful in resolving errors, than creating new scripts.
 
 ## Notes
@@ -47,14 +48,18 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
   - I have a rudimentary ChatGPT script in Python. Pretty cool.
   - I started building a GUI python script that I plan to build into something I can use to chat with ChatGPT.
 
-  -Thursday the 29th of June
-    - I found <a href="https://freedomgpt.com/" target="_blank">FreedomGPT</a>
+- Thursday the 29th of June
+  - I found <a href="https://freedomgpt.com/" target="_blank">FreedomGPT</a>
     it's supposed to run local, have less restrictions, and be more private. <a href="https://github.com/ohmplatform/FreedomGPT/" target="_blank">GitHub</a> has information.
-    - So I have never used 11 GB of RAM on this laptop before. I see why the recommend 16GB RAM.
-    - I like the theory, but not sure this laptop is can run the software very well.
-    - Back to my AI Chatbot and Python learning.
-    - Corrected my secrets file to a name that remove the conflict with python's standard library modules.
-    - I now have a GUI for my ChatBot!
-    - It was interesting, I asked Copilot, "How do I merge my AIChatBot.py with my TestGUI.py" and it showed me how. For some odd reason it did change my ChatGPT API engine, but once I updated that things worked as I expected.
+  - So I have never used 11 GB of RAM on this laptop before. I see why the recommend 16GB RAM.
+  - I like the theory, but not sure this laptop is can run the software very well.
+  - Back to my AI Chatbot and Python learning.
+  - Corrected my secrets file to a name that remove the conflict with python's standard library modules.
+  - I now have a GUI for my ChatBot!
+  - It was interesting, I asked Copilot, "How do I merge my AIChatBot.py with my TestGUI.py" and it showed me how. For some odd reason it did change my ChatGPT API engine, but once I updated that things worked as I expected.
+
+- Friday the 30th of June
+  - I added a filter to the user input. This prevents the user from using certain words when reaching out to ChatGPT. I am thinking this is one way that you could allow people to use ChatGPT and have a guardrails for data safety. Though for it to really work, the filter would need to be intelligent enough to read context. Like an AI filter for AI.
+  - I will think on this a bit more.
 
 

@@ -7,6 +7,8 @@ import my_secrets
 
 openai.api_key = my_secrets.OPENAI_API_KEY
 
+restricted_words = ['password', 'secret', 'confidential']
+
 def chat_with_gpt(message):
     response = openai.Completion.create(
         engine='text-davinci-003',
@@ -22,10 +24,14 @@ def chat_with_gpt(message):
 
 while True:
     user_input = input("You: ")
+    while any(word in user_input.lower() for word in restricted_words):
+        print("ChatGPT: Your input contains restricted words. Please enter a different input.")
+        user_input = input("You: ")
     if user_input.lower() in ['quite', 'exit']:
         print("ChatGPT: Goodbye!")
         break
-    response = chat_with_gpt(user_input)
-    print("ChatGPT: " + response)
+    else:
+        response = chat_with_gpt(user_input)
+        print("ChatGPT: " + response)
 
 
