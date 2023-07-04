@@ -63,4 +63,8 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
   - I will think on this a bit more.
   - Look and you will find [Nightfall](https://docs.nightfall.ai/), a software built for help implement DLP into your application. Incoming research time.
 
+- Monday the 3rd of July
+  - I was thinking about trying for the 100 days of coding, but I like not being on the computer on weekends too much for that. :)
+  - Today I started looking into how to use Nightfall as DLP for my AI ChatGPT script. I so how it works, but still grasping at how to get it to work. Nightfall looks to have good documentation to help me figure this out.
+  - I know I'll figure it out.
 
