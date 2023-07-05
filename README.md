@@ -68,3 +68,9 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
   - Today I started looking into how to use Nightfall as DLP for my AI ChatGPT script. I so how it works, but still grasping at how to get it to work. Nightfall looks to have good documentation to help me figure this out.
   - I know I'll figure it out.
 
+  - Tuesday the 4th of July
+    - I was able to create a nightfallTest.py that warned me if credit card numbers where being used. I find the error to be in a strange formate, but it seems to work.
+    - Then Copilot decided to stop printing python code out in codeblocks and became rather useless to me.
+    - I'm now working through how to have the code scanned by Nightfall first. If that fails the DLP test, then nothing gets sent to ChatGPT.
+    - Work until you hit a block, then pause, think, and come back.
+

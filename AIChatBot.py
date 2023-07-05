@@ -24,9 +24,6 @@ def chat_with_gpt(message):
 
 while True:
     user_input = input("You: ")
-    while any(word in user_input.lower() for word in restricted_words):
-        print("ChatGPT: Your input contains restricted words. Please enter a different input.")
-        user_input = input("You: ")
     if user_input.lower() in ['quite', 'exit']:
         print("ChatGPT: Goodbye!")
         break
