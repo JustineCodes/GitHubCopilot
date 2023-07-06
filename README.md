@@ -80,3 +80,6 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
   - I'm happy that I'm progressing with this project. But still concerned I'm not learning as much Python as I would like. The goals are being met, and that is the important part.
   - At work today in PowerShell I was able to turn a comment into code through Copilot. It was pretty cool. I wrote out what I needed to happen, and Copilot gave me working code. I made some minor adjustments, mostly due to preference on how I want my code to look and work, but the base script it produced, did the job.
 
+- Thursday the 6th of July
+  - I'm moving in two weeks, and had some changes at work that require my focuses. This is a fun learning process, and I'm enjoying myself. However, it's not my top priority in life. I'll do what I can when I can.
+
