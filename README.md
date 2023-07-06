@@ -73,4 +73,10 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
     - Then Copilot decided to stop printing python code out in codeblocks and became rather useless to me.
     - I'm now working through how to have the code scanned by Nightfall first. If that fails the DLP test, then nothing gets sent to ChatGPT.
     - Work until you hit a block, then pause, think, and come back.
+  
+  - Wednesday the 5th of July
+    - I found this helpful [Python Example](https://www.nightfall.ai/blog/chatgpt-dlp-filtering-how-to-use-chatgpt-without-exposing-customer-data#python-example), and have it working in a script of it's own. But learning to understand how it works, and migrate it into a script I have is interesting.
+    - And it's working in my code.
+    - I'm happy that I'm progressing with this project. But still concerned I'm not learning as much Python as I would like. The goals are being met, and that is the important part.
+    - At work today in PowerShell I was able to turn a comment into code through Copilot. It was pretty cool. I wrote out what I needed to happen, and Copilot gave me working code. I made some minor adjustments, mostly due to preference on how I want my code to look and work, but the base script it produced, did the job.
 
