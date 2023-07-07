@@ -82,4 +82,6 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
 
 - Thursday the 6th of July
   - I'm moving in two weeks, and had some changes at work that require my focuses. This is a fun learning process, and I'm enjoying myself. However, it's not my top priority in life. I'll do what I can when I can.
+  - Side thought time
+    - I also find myself at an interesting crossroad. While I need to keep my "day job" (day-to-Day bills, right?) I find myself asking myself, "Is the company pushing me in the direction I want to go? I am forever thankful that they like me enough to want me to stay. To allow me to change positions, and not tell me to leave. But, will my lack of direction put me somewhere I don't want to be in the future? I have skills today that I didn't have a few years ago. This gives me choices. I can work for something else, while I do a good job and gain experience in the role they ask me to do. I can treat it as a fun learning opportunity, while I work toward something else on my time. It may be time for me to depend less on what my current employer wants, and more on what I want. Time to work on my self confidence and chase a dream or two. It seems getting a little stability in life has made me fearful of losing it. But without risk, is there ever a gain?
 
