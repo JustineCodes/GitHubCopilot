@@ -22,6 +22,7 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
 - It has shown me working solutions that were better than what I was going to do.
 - Having a chat option that is focused on code is a wonderful improvement to me workflow. Today I was able to get unstuck a few times by selecting the some code, and asking Copilot what it did, and why was I getting an error.
 - I enjoy how it explains the error or selected code.
+- When you create a function in the script then go to use it later on, Copilot will fill in the parameters and variables. Wicked helpful.
 
 ## Lessons
 - Learning to talk to Copilot is an interesting art.
