@@ -89,3 +89,13 @@ This is a repository where I am learning how GitHub Copilot can help improve my 
 - Tuesday the 11th of July
   - I have been getting lots of use out of Copilot at work with PowerShell. I enjoy seeing solutions that I may not have thought of. The inline prediction is pretty neat, and has helped me improve my spelling.
   - I still type out most code, but I find the prediction helps me spell the commands correctly. I also love how it fills in a function, with parameters, when I call it further down in the script.
+
+- Thursday the 13th of July
+  - Today I started digging into how Jira works. I find GUIs interesting as you need to learn how to navigate the software. Where as with the command line you learn to talk to it.With a stroke of luck though I was able to help someone else learn a bit about Jira and sprints. I find sharing my knowledge helps me learn and better understand. Its the explaining what I learned that helps solidify the new information.
+    - I was able to backup and restore my test environment.
+    - Learned the difference between company managed and Team managed. I see why we are going with company managed.
+    - I really want to better understand creating flows for each project. We currently have one flow for all projects, and that doesn't really work well. Tomorrow I think I'll focus on flow creation.
+  - This evening I have been reading up on Power Platform administration. It is a bit overwhelming to be learning two things at once. But I have been a bit of a slacker the past year, so I don't mind. Lots of new terms and concepts that I'm wrapping my head around.
+    - It's neat that there are different types of environments to use. I thought it was just a label, but nope, each environment has a purpose.
+    - Permissions are something I'm going to need to invest a bit of time into. I want to thoroughly understand what gives what.
+    - I like how you can use environments as containers for different people to store information and apps.
